@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781200245372",
+    "project_id": "womensecurity-abbe9",
+    "storage_bucket": "womensecurity-abbe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781200245372:android:4f1a7aaa32a8126b79bff9",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXpM5i8n2Lsxd6v_3wvHRv2JHIi1kZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
